@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+                <Head>
+                      <meta charset="UTF-8">
+                      <title>My Resume</title>
+                </Head>
+                <body>
+                    <p><h1>Lesego Makoe</h1></p>
+                    <p><img src="../assets/lesegomakoe.jpg" alt="lesego photo" height="130" width="165"></p>
+                    <p><h2>Summary</h2></p>
+                    <p>I am a dynamic and motivated student currently pursuing a Bachelor's degree in Computer Science and Information Technology at the University of KwaZulu-Natal. I have demonstrated proficiency in Python, Java, and C++, complemented by a robust understanding of software development methodologies and cybersecurity principles. My strengths lie in effective problem-solving and collaboration, honed through academic training and hands-on project experience. I am eager to apply my skills and contribute effectively to a progressive IT team</p>
+                    <hr>
+                    <h2>Education</h2>
+                    <ul>
+                        <li>Business Administration Services NQF Level 3 - Training Force (2021-2022)</li>
+                        <li>Bachelor of Computer Science and Information Technology - University of Kwazulu-Natal (present)</li>
+                    </ul>
+                    <hr>
+                    <h2>Awards and Acknowledgements</h2>
+                      <ul>
+                         <li>Received “Slowly pulling a rabbit out” Award from Blue Label Telecoms during Learnership program as a
+                            Human Capital Organizational Effectiveness learner year 2021.</li>
+                            <li>During my 1st year I received distinctions pass for Math 195 (introduction to calculus) module and ISTN
+                                103 Information Systems (development and applications Fundamentals) module</li>
+                                <li>During the first and second semester of the year 2022 I received a certificate of completion for
+                                    participating in the UKZN Enactus non-profit student organization for inspiring students to
+                                    take entrepreneurial action to solve business problems.</li>
+                                    <li>Awarded AW S Certifications for Cloud Practitioner online course</li>
+
+                      </ul>
+                      <hr>
+                    <h2>Work Experience</h2>
+                    <ul>
+                        <li><h3>Casual Crew Team Member - Ticketpro, Sandton</h3>
+                        <p>January 2022 - Present</p>
+                        <ul>
+                            <li>Maintained daily records of business transactions including ticketing sales, receipt deposit,
+                                responding to customer complaints.</li>
+                                <li>Ensuring the cashless process during events is effective and faster for customers.</li>
+                                <li>Ensuring the funds are correctly loaded into the customers tags.</li>
+                                <li>Ensuring the tickets are for the correct event.</li>
+                                <li>Scanning the ticket with Ticket Pro devices to sync to the database the number of customers
+                                    attending.</li>
+                                    
+                        </ul>
+                    </ul>
+                    <ul>
+                        <li><h3>Human Capital Organisational Effectiveness Learner - Blue Label Telecommunications, Sandton</h3>
+                                  <p>May 2021 - May 2022</p>
+                            <ul>
+                                <li>Responsible for the administration of BluTrain employed learnerships, collecting documents,
+                                    recording to database, registration of Blue label employees to learneships.</li>
+                                    <li>Collaborating with skills and development team to conduct a skills gap analysis.</li>
+                                    <li>Proving learning in the flow of work.</li>
+                                    <li>Administrating unemployed youth learnerships interviews and inductions</li>
+                            </ul>
+                    </ul>
+                    <ul>
+                        <li><h3>Administrator - Diversity, Johannesburg Park Town</h3>
+                        <p>January 2021 - May 2021</p>
+                        <ul>
+                            <li>Computerized office activities, Maintained customer communications and tracked records through
+                                delivery.</li>
+                                <li>Entered and maintained departmental records in company database.</li>
+                                <li>Collected, Validated and distributed information to employees.</li>
+                                <li>Screened and transferred incoming calls, took down messages and transmitted information and
+                                    documents to internal personnel</li>
+                        </ul>
+
+                    </ul>
+                    <ul>
+                        <li><h3>Construction Worker - Granite Contructions, Brakpan</h3>
+                            <p>March 2020 - November 2020</p>
+                            <ul>
+                                <li>Operated power equipment to move materials and promote job efficiency.</li>
+                                <li>Gathered and disposed of worksite debris to remove safety hazards.</li>
+                                <li>Responsible for cleaning shoves and shatters equipment’s</li>
+                                <li>Building the Scaffolding Equipment</li>
+                                <li>Mixing the cement to produce the concrete.</li>
+                            </ul>
+                    </ul>
+                    <hr>
+                    <h2>Skills</h2>
+                     
+                    <ul>
+                        <li>Customer service: ⭐️⭐️⭐️⭐️⭐️</li>
+                        <li>Microsoft Office Suite: ⭐️⭐️⭐️</li>
+                        <li>Organizational skills: ⭐️⭐️⭐️⭐️</li>
+                        <li>Python: ⭐️⭐️⭐️ </li>
+                        <li>Java: ⭐️⭐️⭐️ </li>
+                        <li>System Analysis and Design: ⭐️⭐️⭐️⭐️</li>
+                    </ul>
+                    
+                </body>
+</html>
